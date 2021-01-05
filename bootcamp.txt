@@ -1,0 +1,5 @@
+5 weeks ago I started a coding bootcamp.
+Yesterday was the first day of live class.
+Today we are learning to git init.
+
+Peter says we will become wizards at this.
