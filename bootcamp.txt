@@ -1,4 +1,4 @@
-5 weeks ago I started a coding bootcamp.
+5 weeks ago, Pupl Function cohort started coding bootcamp.
 Yesterday was the first day of live class.
 Today we are learning to git init.
 
