@@ -4,3 +4,5 @@ Today we are learning to git init.
 
 Peter says we will become wizards at this.
 All of this is invisible. Wild!
+
+We all have repositories now. Not to be confused with suppositories.
